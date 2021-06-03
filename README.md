@@ -14,6 +14,9 @@
 + FLsched: A Lockless and Lightweight Approach to OS Scheduler for Xeon Phi. APSys(2017) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3124680.3124724)
 + Towards achieving fairness in the Linux scheduler. ACM(2008) [[pdf]](https://dl.acm.org/doi/abs/10.1145/1400097.1400102)
 
+## GC
++ Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/wu-mingyu) [[slides]](https://www.usenix.org/system/files/atc20-paper758-slides-wu.pdf) [[video]](https://www.youtube.com/watch?v=PjuEN8SxhN0&ab_channel=USENIX)
+
 ## syscall
 + Draco: Architectural and Operating System Support for System Call Security. MICRO(2020) [[pdf]](https://www.microarch.org/micro53/papers/738300a042.pdf) [[video]](https://www.youtube.com/watch?v=wvBTGqun7XY&ab_channel=MICROSymposium)
 
