@@ -13,6 +13,8 @@
 + The Battle of the Schedulers FreeBSD ULE vs. Linux CFS. ATC(2018) [[pdf]](https://www.usenix.org/conference/atc18/presentation/bouron) [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_bouron.pdf)
 + FLsched: A Lockless and Lightweight Approach to OS Scheduler for Xeon Phi. APSys(2017) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3124680.3124724)
 + Towards achieving fairness in the Linux scheduler. ACM(2008) [[pdf]](https://dl.acm.org/doi/abs/10.1145/1400097.1400102)
++ Linux 调度器免锁优化方法研究. 小型微型计算机系统(2017) [[pdf]](http://xwxt.sict.ac.cn/CN/Y2017/V38/I4/690)
++ Linux 内核完全公平调度器改进的研究. 计算机工程与应用(2014) [[pdf]](http://cea.ceaj.org/CN/abstract/abstract32511.shtml)
 
 ## GC
 + Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/wu-mingyu) [[slides]](https://www.usenix.org/system/files/atc20-paper758-slides-wu.pdf) [[video]](https://www.youtube.com/watch?v=PjuEN8SxhN0&ab_channel=USENIX)
