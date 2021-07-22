@@ -9,12 +9,16 @@
 + Resource Efficient Stream Processing Platform with Latency-Aware Scheduling Algorithms. HotCloud(2020) [[pdf]](https://www.usenix.org/conference/hotcloud20/presentation/morisawa) [[slides]](https://www.usenix.org/system/files/hotcloud20-paper67-slides-morisawa.pdf) [[video]](https://www.youtube.com/watch?v=mjzyc16FYC8&ab_channel=USENIX)
 + Provable Multicore Schedulers with Ipanema：Application to Work Conservation. EuroSys(2020) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3342195.3387544) [[slides]](https://www.eurosys2020.org/wp-content/uploads/2020/04/slides/411_lepers_slides.pdf) [[video]](https://www.youtube.com/watch?v=6xA4Z6_0diI&ab_channel=EuroSys2020Conference)
 + The Linux Scheduler a Decade of Wasted Cores. EuroSys(2016) [[pdf]](https://dl.acm.org/doi/10.1145/2901318.2901326)
-+ Fewer Cores, More Hertz：Leveraging High-Frequency Cores in the OS Scheduler for Improved Application Performance. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/gouicern) [[slides]](https://www.usenix.org/system/files/atc20-paper683-slides-gouicem.pdf) [[video]](https://www.youtube.com/watch?v=UCBJLTmzpwE&ab_channel=USENIX)
 + The Battle of the Schedulers FreeBSD ULE vs. Linux CFS. ATC(2018) [[pdf]](https://www.usenix.org/conference/atc18/presentation/bouron) [[slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_bouron.pdf)
 + FLsched: A Lockless and Lightweight Approach to OS Scheduler for Xeon Phi. APSys(2017) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3124680.3124724)
 + Towards achieving fairness in the Linux scheduler. ACM(2008) [[pdf]](https://dl.acm.org/doi/abs/10.1145/1400097.1400102)
 + Linux 调度器免锁优化方法研究. 小型微型计算机系统(2017) [[pdf]](http://xwxt.sict.ac.cn/CN/Y2017/V38/I4/690)
 + Linux 内核完全公平调度器改进的研究. 计算机工程与应用(2014) [[pdf]](http://cea.ceaj.org/CN/abstract/abstract32511.shtml)
+
+### CPU Frequencies 
++ Fewer Cores, More Hertz：Leveraging High-Frequency Cores in the OS Scheduler for Improved Application Performance. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/gouicern) [[slides]](https://www.usenix.org/system/files/atc20-paper683-slides-gouicem.pdf) [[video]](https://www.youtube.com/watch?v=UCBJLTmzpwE&ab_channel=USENIX)
++ Fair Scheduling for AVX2 and AVX-512 Workloads. ATC(2021) [[PDF]](https://www.usenix.org/system/files/atc21-gottschlag.pdf) [[slides]](https://www.usenix.org/system/files/atc21_slides_gottschlag.pdf)
+
 
 ## GC
 + Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/wu-mingyu) [[slides]](https://www.usenix.org/system/files/atc20-paper758-slides-wu.pdf) [[video]](https://www.youtube.com/watch?v=PjuEN8SxhN0&ab_channel=USENIX)
