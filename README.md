@@ -14,6 +14,7 @@
 + Towards achieving fairness in the Linux scheduler. ACM(2008) [[pdf]](https://dl.acm.org/doi/abs/10.1145/1400097.1400102)
 + Linux 调度器免锁优化方法研究. 小型微型计算机系统(2017) [[pdf]](http://xwxt.sict.ac.cn/CN/Y2017/V38/I4/690)
 + Linux 内核完全公平调度器改进的研究. 计算机工程与应用(2014) [[pdf]](http://cea.ceaj.org/CN/abstract/abstract32511.shtml)
++ SmartHarvest：harvesting idle CPUs safely and efficiently in the cloud. EuroSys(2021) [[pdf]](https://dl.acm.org/doi/10.1145/3447786.3456225) [[slides]](https://2021.eurosys.org/docs/presentations/4-wang%20-%20Yawen%20Wang.pdf) [[video]](https://www.youtube.com/watch?v=bEtO5oKMMlk&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=20&ab_channel=%EC%9E%84%ED%9C%98%EC%A4%80)
 
 ### CPU Frequencies 
 + Fewer Cores, More Hertz：Leveraging High-Frequency Cores in the OS Scheduler for Improved Application Performance. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/gouicern) [[slides]](https://www.usenix.org/system/files/atc20-paper683-slides-gouicem.pdf) [[video]](https://www.youtube.com/watch?v=UCBJLTmzpwE&ab_channel=USENIX)
