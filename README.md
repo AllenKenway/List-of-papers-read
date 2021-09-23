@@ -18,6 +18,7 @@
 ### CPU Frequencies 
 + Fewer Cores, More Hertz：Leveraging High-Frequency Cores in the OS Scheduler for Improved Application Performance. ATC(2020) [[pdf]](https://www.usenix.org/conference/atc20/presentation/gouicern) [[slides]](https://www.usenix.org/system/files/atc20-paper683-slides-gouicem.pdf) [[video]](https://www.youtube.com/watch?v=UCBJLTmzpwE&ab_channel=USENIX)
 + Fair Scheduling for AVX2 and AVX-512 Workloads. ATC(2021) [[PDF]](https://www.usenix.org/system/files/atc21-gottschlag.pdf) [[slides]](https://www.usenix.org/system/files/atc21_slides_gottschlag.pdf)
++ Automatic Core Specialization for AVX-512 Applications. SYSTOR(2020) [[PDF]](https://dl.acm.org/doi/10.1145/3383669.3398282) [[slides]](https://www.systor.org/2020/slides/Automatic_Core_Specialization_for_AVX-512_Applications.pdf)
 
 
 ## GC
