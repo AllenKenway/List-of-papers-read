@@ -60,7 +60,3 @@
 + Doris: an adaptive soft real-time scheduler in virtualized environments. IEEE Trans. Serv. Comput. (2017). [[pdf]](https://ieeexplore.ieee.org/document/7961215)
 + Performance analysis towards a KVM-Based embedded real-time virtualization architecture. J. Inf. Sci. Eng.(2013). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5711095)
 + Challenges in real-time virtualization and predictable cloud computing. Journal of Systems Architecture(2014). [[pdf]](https://www.sciencedirect.com/science/article/pii/S1383762114001015)
-
-
-
-[[pdf]]()
